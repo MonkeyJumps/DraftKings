@@ -1,0 +1,7 @@
+﻿6
+add,10,Sharilyn Gruber,-1
+add,7,Denice Mattice,10
+add,3,Lawana Futrell,-1
+add,34,Lissette Gorney,7
+add,5,Lan Puls,3
+print

@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DraftKings.Tests", "DraftKings.Tests\DraftKings.Tests.csproj", "{CA27A4E9-8BA4-43F9-8CC4-771512A0FC31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DraftKings.Lib", "DraftKings.Lib\DraftKings.Lib.csproj", "{9E09765E-2493-4F2A-B1FD-627E8636A9CC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{48BBE719-D921-4EDE-B373-BD798E8CDA92}"
+	ProjectSection(SolutionItems) = preProject
+		Readme.md = Readme.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA27A4E9-8BA4-43F9-8CC4-771512A0FC31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA27A4E9-8BA4-43F9-8CC4-771512A0FC31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA27A4E9-8BA4-43F9-8CC4-771512A0FC31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA27A4E9-8BA4-43F9-8CC4-771512A0FC31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E09765E-2493-4F2A-B1FD-627E8636A9CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E09765E-2493-4F2A-B1FD-627E8636A9CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E09765E-2493-4F2A-B1FD-627E8636A9CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E09765E-2493-4F2A-B1FD-627E8636A9CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87AD8D2C-D5A0-4492-9D85-214CDF4AC330}
+	EndGlobalSection
+EndGlobal
